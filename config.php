@@ -21,23 +21,21 @@ $faucetSubtitle = "Кожні 12 год. можна отримати безко�
 $logo = "images/krbcoin.png";
 
 //Faucet address for donations
-$faucetAddress = "KcCLKjdXWW6bpSYg9AsMXz1aQmVhyfXL17p8bS13k6A1CwPtqJ5VNWD34oHmtPV4gy4GgE2Ej6oCcApvgMbivvgiNpJNjpR";
+$faucetAddress = "";
 
 //Reward time in hours
 $rewardEvery = "12";
 //Max reward and min reward as decimals Ex: Min = 10.0 & Max = 20.0
-$minReward = "0.01"; //Remember that the minimum for an eobot deposit is 5 BCN as reward.
-$maxReward = "0.3"; 
+$minReward = "0.1"; //Remember that the minimum for an eobot deposit is 5 BCN as reward.
+$maxReward = "1"; 
 //Transaction fee is set to 0.01 BCN for every request.
 
 
 //Database connection
-
-$userDB = "";
+$hostDB = "faucet-db";
 $database = "";
+$userDB = "";
 $passwordDB = "";
-$hostDB = "127.0.0.1";
-
 
 //Recaptcha Keys. You can get yours here: https://www.google.com/recaptcha/
 $keys = array(
