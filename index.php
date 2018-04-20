@@ -40,7 +40,7 @@ require_once 'config.php';
 				<!-- ADS ADS ADS ADS ADS ADS ADS ADS ADS -->
 				<br />
 				<?php                  
-					$bitcoin = new jsonRPCClient('http://127.0.0.1:32323/json_rpc');
+					$bitcoin = new jsonRPCClient('http://karbo-wallet:8070/json_rpc');
 					$balance = $bitcoin->getbalance();
 					$balanceDisponible = $balance['available_balance'];
 					$lockedBalance = $balance['locked_amount'];
