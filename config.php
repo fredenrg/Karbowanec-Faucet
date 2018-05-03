@@ -1,6 +1,5 @@
 <?php
 /*
-
 Faucet by Ratnet - Made in México - 2015
 
 I developed this for free to help spread the word about Bytecoin but if you want to tip me, everything will be appreciated :D
@@ -12,6 +11,14 @@ Bitcoin: 1MXPDKMSbCr41n2imq2BEMivtu9SJyd4ES
 
 Donations to Ratnet's Bytecoin Faucet:
 Bytecoin: 24gKv1yqZ2oZ7Ln4KWcL3q7D7CXibndxhDzLvrJxxw1x7tiaQ5euuduT9EkHzDta144vmwToddz9Khct4pqSVzuBCxgVTYP
+
+Changes for KRB by Karbo Dev team 2016, Looongcat 2018
+
+Karbo Dev team donation wallet:
+Kdev1L9V5ow3cdKNqDpLcFFxZCqu5W2GE9xMKewsB2pUXWxcXvJaUWHcSrHuZw91eYfQFzRtGfTemReSSMN4kE445i6Etb3
+
+Looongcat donation wallet:
+KfS4P6eape7iT9m12XVGr5MpTTicPHDANji41wTZ55AuLVq32Tu7NuoJqc1GHKqh3YjorSwytGegBRUxu2fZDMPMAffx9VN
 
 */
 
