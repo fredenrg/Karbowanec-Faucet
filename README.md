@@ -1,20 +1,14 @@
-# Karbowanec-Faucet
+# Karbo (KRB) faucet frontend
 
-This is a PHP and MYSQL Faucet for Karbowanec Crypto Currency forked from Bytecoin faucet by Ratnet.
+The frontend of PHP+MySQL based cryptocurrency faucet.
 
+## How to setup
+1. config.php - add all necessary options (such as wallet address, passwords, captcha keys...)
+2. Run and have fun!
 
+## Credits
+© 2015 [Ratnet](https://github.com/Ratnet/Bytecoin-Faucet "Original repository")
 
+© 2016 [Seredat](https://github.com/seredat/Karbowanec-Faucet)
 
-
-![Alt text](https://freebytecoin.cf/made-in-mexico.jpg?raw=true "Made in Mexico")
-
-
-I developed this for free to help spread the word about Bytecoin but if you want to tip me, everything will be appreciated :D
-
-Donations to Ratnet Personal Wallet for Developing:
-
-* Bytecoin: 28qwqrRWSF7Ad8GjwUgR142yvhmnsa6GGbvf8KpxzWkqU1FEhK5LBijZhXseeQvDzij7cRETY3DPJ3e7opXQc5AhURdFt9U
-* Bitcoin: 1MXPDKMSbCr41n2imq2BEMivtu9SJyd4ES
-
-Donations to Ratnet's Bytecoin Faucet:
-* Bytecoin: 28k3gEkoGvxPbR32hmN7oxE7vCWcDawssAu69oSA2SPRUbz55Buf7ytXQ9abaKewm1VxzCZDNmag4joqSVLSfiSCA5RKzgR
+© 2018 [Looongcat](https://github.com/Looongcat/karbo-faucet)
