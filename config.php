@@ -22,12 +22,13 @@ KfS4P6eape7iT9m12XVGr5MpTTicPHDANji41wTZ55AuLVq32Tu7NuoJqc1GHKqh3YjorSwytGegBRUx
 
 */
 
-$faucetTitle      = "Кран карбованців";
-$faucetSubtitle   = "Кожні 12 год. можна отримати безкоштовні карбованці";
+$faucetTitle      = "FRED Faucet";
+$faucetSubtitle   = "Free FRED every 12 hours";
 $logo             = "images/krbcoin.png";
 
 // Address for RPC client
-$jsonrpc_server = 'http://127.0.0.1:8070/json_rpc';
+$jsonrpc_server = 'http://127.0.0.1:8754/json_rpc';
+$password = 'password';
 
 //Faucet address for donations
 $faucetAddress    = "";
